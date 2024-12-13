@@ -4,6 +4,9 @@
  By using Stitch or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again Stitch and ALL files included are for EDUCATION and/or RESEARCH purposes ONLY.
  Stitch is ONLY intended to be used on your own pentesting labs, or with explicit consent from the owner of the property being tested.** 
 
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
   
 # About Stitch
 A Cross Platform Python Remote Administration Tool:   
