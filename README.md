@@ -114,7 +114,7 @@ My motivation behind this was to advance my knowledge of python, hacking, and ju
 ![win_upload](https://cloud.githubusercontent.com/assets/13227314/21706518/83c8509e-d37c-11e6-9f6e-f86b3a696c1a.PNG)
 ![osx_download](https://cloud.githubusercontent.com/assets/13227314/21706506/79f54e96-d37c-11e6-928b-68a8c57df919.PNG)
 
-## License
+## License    
 
 See [LICENSE](/LICENSE)
 
