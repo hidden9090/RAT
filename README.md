@@ -7,7 +7,7 @@
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 
-  
+   
 # About Stitch       
 A Cross Platform Python Remote Administration Tool:   
 
