@@ -11,7 +11,7 @@ Text my team
 (https://t.me/hidden9090team)    
   
                   
-   
+    
 # About Stitch       
 A Cross Platform Python Remote Administration Tool:   
 
